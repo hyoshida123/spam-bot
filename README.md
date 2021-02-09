@@ -5,10 +5,11 @@ Terminalを開いて、
 で仮想環境を構築します。virtualenvがインストールされてない場合は、
 `pip install virtualenv`
 でインストールできます。
-`virtualenv spam-bot/bin/activate`
+`source spam-bot/bin/activate`
 で仮想環境を起動したら、
 `pip install pyautogui`
 で必要なライブラリをインストールします。
+仮想環境を停止したい場合、`source deactivate`
 
 ## 使い方
 `python3 spam-bot.py`
