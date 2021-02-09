@@ -12,4 +12,4 @@ Terminalを開いて、
 
 ## 使い方
 `python3 spam-bot.py`
-で起動したら、LINEやYoutubeライブのテキスト入力ボックスをクリックするだけです。
+で起動したら、LINEやYoutubeライブなどのテキスト入力ボックスをクリックするだけです。
