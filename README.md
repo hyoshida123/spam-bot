@@ -9,7 +9,7 @@ Terminalを開いて、
 で仮想環境を起動したら、
 `pip install pyautogui`
 で必要なライブラリをインストールします。
-仮想環境を停止したい場合、`source deactivate`
+仮想環境を停止したい場合、`deactivate`
 
 ## 使い方
 `python3 spam-bot.py`
